@@ -103,7 +103,7 @@ view address model =
               [ div [ class "container" ]
                     [ a [ class "navbar-brand"
                         , href (Route.urlFor Route.Home) ]
-                        [ text "Mantl" ]
+                        [ text "Desote" ]
                     , ul [ classes [ "nav", "navbar-nav" ] ]
                          [ link Route.Home "Home"
                          , link Route.HealthOverview "Health" ]
