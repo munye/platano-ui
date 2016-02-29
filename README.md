@@ -1,6 +1,6 @@
-# Mantl UI frontend
+# Desote UI frontend
 
-A frontend for [Mantl UI](https://github.com/CiscoCloud/nginx-mantlui).
+A frontend for [Desote UI](https://github.com/CiscoCloud/nginx-mantlui).
 
 It looks a bit like this:
 
