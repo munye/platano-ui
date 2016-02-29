@@ -4,12 +4,12 @@ A frontend for [Mantl UI](https://github.com/CiscoCloud/nginx-mantlui).
 
 It looks a bit like this:
 
-![Mantl UI Frontend](screenshot.png)
+![Desote UI Frontend](screenshot.png)
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
 **Table of Contents**
 
-- [Mantl-UI frontend](#mantl-ui-frontend)
+- [Desote-UI frontend](#mantl-ui-frontend)
     - [Developing](#developing)
         - [Tests](#tests)
 
